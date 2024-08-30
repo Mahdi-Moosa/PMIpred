@@ -1,3 +1,4 @@
+# The repo works with following modules. Other combo might work, but this worked for me in Ubuntu. I think this will work with windows too.
 tensorflow==2.8.0
 keras==2.8.0
 modlamp==4.3.0
