@@ -15,3 +15,5 @@ This repo contains:
 - scripts/PMIpred_protein.py		offline version of the protein module in PMIpred
 
 - benchmark/				DREAMM, PPM, MODA, and PMIpred data for 27 benchmark proteins (+3 TM proteins)
+
+_Notes:_ To get this working, you need to download variables. Download link is provided at DOWNLOAD_LINK file in the scripts/final_model directory
